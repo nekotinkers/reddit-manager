@@ -2,6 +2,8 @@
 
 A Chrome extension to bulk delete, edit, find/replace and AI-rewrite **your own** Reddit comments and posts, with local AI through [Ollama](https://ollama.com) and karma analytics. Everything stays on your device.
 
+## **GET EXTENSION** [Chrome Store](https://chromewebstore.google.com/detail/lbbmaakakbleffmdhkgnioafhbkhkpci)
+
 ![Promo banner](Media/promo-marquee-1400x560.png)
 
 ## Features
@@ -34,6 +36,7 @@ More images: [media.html](media.html)
 
 ## Links
 
+- **GET EXTENSION** [Chrome Store](https://chromewebstore.google.com/detail/lbbmaakakbleffmdhkgnioafhbkhkpci)
 - [Privacy Policy](privacy.html)
 - [Terms of Use](terms.html)
 
